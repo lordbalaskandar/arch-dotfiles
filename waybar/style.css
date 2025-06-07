@@ -202,7 +202,7 @@ label:focus {
 
 #cpu {
     background-color: #FF2D9A;
-    color: #000000;
+    color: white;
 }
 
 #memory {
@@ -227,7 +227,7 @@ label:focus {
 
 #pulseaudio {
     background-color: #FF2D9A;
-    color: #000000;
+    color: white;
 }
 
 #pulseaudio.muted {
@@ -237,7 +237,7 @@ label:focus {
 
 #wireplumber {
     background-color: #fff0f5;
-    color: #000000;
+    color: white;
 }
 
 #wireplumber.muted {
@@ -259,7 +259,7 @@ label:focus {
 }
 
 #temperature {
-    background-color: #f0932b;
+    background-color: #FF2D9A;
 }
 
 #temperature.critical {
@@ -267,7 +267,7 @@ label:focus {
 }
 
 #tray {
-    background-color: #2980b9;
+    background-color: #FF2D9A;
 }
 
 #tray > .passive {
